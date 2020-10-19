@@ -1,11 +1,9 @@
 # 卡片页面
-一个图文卡片式静态页面，可用作于电影收藏、音乐收藏、阅读书籍记录等页面。
+一个图文卡片式静态页面，可用作于（ACGN）动漫、漫画、音乐、电影及文字阅读书籍收藏等页面。
 ## 预览地址
 [预览 Demo](https://app.2broear.com/acg/)
 #### 主要文件
-acg.js/acg.json
-#### 其他文件
-acg.css/index.html
+acg.js/acg.json（acg.css/index.html）
 #### 依赖项
 jquery.js/~~lazyload.js~~
 

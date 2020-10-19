@@ -13,4 +13,4 @@ jquery.js/~~lazyload.js~~
 通过 acg.js/acg.json 新增条目（在 acg.js 新增对象后需要同步在 acg.json 新增相同类名数据否则会抛出错误）
 
 ## 其他
-移动适配后期空了会加上
+~~移动适配后期空了会加上~~ 已添加

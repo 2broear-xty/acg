@@ -1,0 +1,109 @@
+var anime = [{
+	"id" :1,
+	"src" :"//pan.baidu.com/s/1PIdOf4HkkI2Ak4UlNDWlPA",
+	"title" :"幽灵公主",
+	"subtitle" :"もののけ姫",
+	"description" : "提取码：4g95）为了拯救危难中的村民，阿斯达卡的右手中了凶煞神的诅咒。他卡只好离开亲人往西方流浪以寻找解除诅咒的方法。旅途中他遇到了由幻姬大人带领的.."
+}],
+
+comic = [{
+	"id" :1,
+	"src" :"//www.bilibili.com/bangumi/play/ss1177",
+	"title" :"CLANNAD",
+	"subtitle" :" -クラナド-",
+	"description" : "冈崎朋也因家庭因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩.."
+}, {
+	"id" :2,
+	"src" :"//www.bilibili.com/bangumi/play/ss3756/",
+	"title" :"百变小樱魔术卡",
+	"subtitle" :"カードキャプターさくら",
+	"description" : "木之本樱，是擅长体育的小学4年级学生。某天，小樱从学校回家，在平常都没有人的地下书房发现似乎有什么人的样子。小樱走下去一看，那里有一本闪耀着金色光芒的书。里面装有牌，然而.."
+}],
+
+game=[{
+	"id" :1,
+	"class" : "gs",
+	"gs_rating" : 8.5,
+	"ign_rating" : 6.5,
+	"src" :"319630/Life_is_Strange/",
+	"title" :"奇异人生",
+	"subtitle" :"Life is Strange",
+	"description" : "Max时隔五年回到家乡阿卡迪亚湾寻求安定的生活，并就读于当地Blackwell学院的摄影专业，此时整个小镇都被寻找名为瑞秋（Rachel Amber）的女学生的寻人启事覆盖.."
+}, {
+	"id" :2,
+	"class" : "gs",
+	"gs_rating" : 9.0,
+	"ign_rating" : "",
+	"src" :"319630/Life_is_Strange/",
+	"title" :"超凡双生",
+	"subtitle" :"Beyond: Two Souls",
+	"description" : "一种拥有强大力量的神秘灵体与Jodie的联系，她生来就与众不同。 在寻找她真实身份的旅途中，Jodie将遇到一系列超凡的挑战、危险以及伤心欲绝的生离死别，而你的行动将决定她的命运.."
+}, {
+	"id" :3,
+	"class" : "ign",
+	"gs_rating" : "",
+	"ign_rating" : 9.0,
+	"src" :"960910/Heavy_Rain/",
+	"title" :"暴雨",
+	"subtitle" :"Heavy Rain",
+	"description" : "人称”折纸杀手“的杀人犯在沉寂了四天后，悄悄地展开猎杀。之所以被称为”折纸杀手“，是因为他在每处犯罪现场都会留下折纸作为他令人毛骨悚然的犯罪签名。四个角色中的每一位都有着自己的动机.."
+}],
+
+movie = [{
+	"id" :1,
+	"src" :"//iqiyi.com/v_19rra0h3wg.html",
+	"title" :"肖申克的救赎",
+	"stars" : "★★★★☆",
+	"subtitle" :"The Shawshank Redemption",
+	"description" : "[ ★★★★★ ] 20世纪40年代末，小有成就的青年银行家安迪因涉嫌杀害妻子及她的情人而锒铛入狱。在这座名为肖申克的监狱内，希望似乎虚无缥缈，终身监禁的惩罚无疑注定了安迪接下来灰暗绝望的人生.."
+}, {
+	"id" :2,
+	"src" :"//iqiyi.com/v_19rrk3nlys.html",
+	"title" :"当幸福来敲门",
+	"subtitle" :"The Pursuit of Happyness",
+	"description" : "[ ★★★★★ ] 克里斯-加纳用尽全部积蓄买下了高科技治疗仪，到处向医院推销，可是价格高昂，接受的人不多。就算他多努力都无法提供一个良好的生活环境给妻儿，妻子最终选择离开家。从此他带着儿子.."
+}, {
+	"id" :3,
+	"src" :"//v.qq.com/x/cover/ugkttnywlcyooqz.html",
+	"title" :"弱点",
+	"subtitle" :"The Blind Side",
+	"description" : "[ ★★★★★ ] 黑人奥赫自幼父母离异，无家可归。不过，木讷的他却因为极强的身体条件和运动天赋，幸运地进入了一家孤儿院。虽然，他科科零分，但是一些细节却让他显得与众不同。一次排球比赛后.."
+}, {
+	"id" :4,
+	"src" :"//iqiyi.com/v_19rr7pgccs.html",
+	"title" :"藩篱",
+	"subtitle" :"Fences",
+	"description" : "[ ★★★★★ ] 美国黑人特洛伊曾是一名棒球希望新星，却因为一次意外的抢劫杀人案而入狱，当时美国职业棒球大联盟种族隔离政策还未完全废除，黑人登场机会很少，加上特洛伊出狱后年纪也大了.."
+}],
+
+tv = [{
+	"id" :1,
+	"src" :"//www.yyetss.com/detail-57714.html",
+	"title" :"猎魔人",
+	"subtitle" :"美剧/Netflix",
+	"description" : "《猎魔人》改编自畅销的奇幻小说系列，讲述了一个关于命运和家庭的史诗故事。利维亚的杰洛特是一名独居的猎魔人，他努力在这个人类比野兽更邪恶的世界上寻得自己的一席之地.."
+}, {
+	"id" :2,
+	"src" :"//www.yyetss.com/detail-557.html",
+	"title" :"行尸走肉【系列】",
+	"subtitle" :"美剧/AMC",
+	"description" : "镇治安官瑞克·格里姆斯在一次行动中遭受枪击，当他从昏迷中醒来时，发现小镇上阴气沉沉，死尸遍地。更为恐怖的是，有的死尸游走于街头巷尾，嗜血如命，早已化作恐怖的丧尸.."
+}, {
+	"id" :3,
+	"src" :"//v.youku.com/v_show/id_XMTAyMDIyNzY4.html",
+	"title" :"亮剑",
+	"subtitle" :"Drawing Sword",
+	"description" : "1937年7月7日，抗日战争爆发。129师386旅新1团团长李云龙，率部凭借过硬的战术战法，越战越勇，让敌人闻风丧胆。在与日本坂田联队的交战中，成功从正面突围并干掉了坂田.."
+}, {
+	"id" :4,
+	"src" :"//iqiyi.com/v_19rrjea0fc.html",
+	"title" :"雪豹",
+	"subtitle" :"Snow Leopard",
+	"description" : "1932年初，上海。1月28日夜，日军突然向上海闸北地区发起进攻，驻防上海的中国十九路军奋起反击，开始了著名的'一.二八'淞沪抗战。在通往大上海的咽喉要道--青云路阵地上.."
+}, {
+	"id" :5,
+	"src" :"//v.youku.com/v_show/id_XMTE0OTk3MzEy.htm",
+	"title" :"爱情公寓",
+	"subtitle" :"共 5 部 / 1月12日",
+	"description" : "一幢并不奢华的公寓，两间普普通通的套房，住着七个不同背景，不同身份，不同理想的青年男女。就在这里，每天都发生着看似平常却又乐趣十足的幽默故事。时而搞笑、时而离奇.."
+}]

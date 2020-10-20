@@ -10,7 +10,7 @@
   + acg.json
 #### 依赖项
 jquery.min.js
-  + lazyload.js（可选）
+  + ~~lazyload.js~~（可选）
 ## 新增&修改
 #### 已存在对象
 通过 acg.json 添加修改已存在条目（在对应 json 文件中修改对象）

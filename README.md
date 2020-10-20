@@ -10,8 +10,24 @@ jquery.js
 ## 新增&修改
 #### 已存在对象
 通过 acg.json 添加修改已存在条目（在对应 json 文件中修改对象）
+``` json
+newItem = [{
+  "id" : id,
+  "src" : src,
+  "title" : title,
+  "subtitle" : subtitle,
+  "description" : description
+}]
+```
 #### 新增对象
 通过 acg.js 新增 jsonObj 对象，再通过 acg.json 新增同名 json 对象
-
+``` javascript
+jsonObj = [{
+  "newItem":{
+    "en":"newItem",
+    "cn":"新项目"
+  }
+}]
+```
 ## 其他
 ~~移动适配后期空了会加上~~ 已适配

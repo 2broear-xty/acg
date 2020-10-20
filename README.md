@@ -14,10 +14,10 @@ jquery.min.js
 ## 新增&修改
 #### 已存在对象
 通过 acg.json 添加修改已存在条目（在对应 json 文件中修改对象）
-```
+``` javascript
 newItem = [{
-  "id" : "id",  //图片名对应 id
-  "src" : "src",  //链接 src
+  "id" : "id",  //图片（名称对应 id）
+  "src" : "src",  //链接
   "title" : "title",  //标题
   "subtitle" : "subtitle",  //小标题（可选）
   "description" : "description"  //描述

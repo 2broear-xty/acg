@@ -86,8 +86,6 @@ $(function(){
 			}
 		}
 	};
-	// 单独加载 jgame
-	$('.win-top .counter h2').append('<sup>+</sup>');
 
 	// jsonObj-jgame 评分逻辑
 	function ratingRange(){

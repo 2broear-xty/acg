@@ -7,7 +7,7 @@ acg.js/acg.json/acg.css（index.html）
 #### 依赖项
 jquery.js
 
-# 新增&修改
+## 新增&修改
 #### 已存在对象
 通过 acg.json 添加修改已存在条目（在对应 json 文件中修改对象）
 #### 新增对象

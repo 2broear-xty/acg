@@ -1,8 +1,9 @@
 # ACGN 精美卡片页面
 一个图文卡片式静态页面，可用作于（ACGN）动漫、游戏（GameSpot/IGN 游戏评分）、音乐、电影及文字阅读书籍收藏等页面。
-## 预览地址
+#### 预览
 [预览 Demo](https://app.2broear.com/acg/)
-#### 主要文件
+## 构成
+#### 主文件
 acg.js/acg.json/acg.css（index.html）
 #### 依赖项
 jquery.js
